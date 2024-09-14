@@ -1,4 +1,4 @@
- export const colors = [
+export const colors = [
     '#ccc',
     '#EFBD4E',
     '#80C670',
@@ -8,10 +8,7 @@
     'cyan'
   ]
 
-  // selectedColor: '#EFBD4E',
-  // selectedDecal: 'three2'
-
-  export const logoArr = [
+export const logoArr = [
     'adidas_logo.png',
     'nike_logo.png'
   ];
